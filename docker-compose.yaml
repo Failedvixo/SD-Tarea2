@@ -1,5 +1,6 @@
 version: '3'
 services:
+
   zookeeper:
     image: confluentinc/cp-zookeeper:7.0.1
     container_name: zookeeper
@@ -29,6 +30,7 @@ services:
       KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
       KAFKA_JMX_PORT: 9101
       KAFKA_JMX_HOSTNAME: localhost
+  #
   redis:
     image: bitnami/redis:7.0.10
     ports:
@@ -37,3 +39,15 @@ services:
       - ALLOW_EMPTY_PASSWORD=yes
     volumes:
       - ./redis:/bitnami/redis/data
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+networks:
+  default:
+    driver: bridge
