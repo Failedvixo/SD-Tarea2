@@ -42,17 +42,17 @@ def producer(name):
         for linea in data:
             trago.append(linea)
     
-
-    numero = 3
+    #182
+    numero = len(trago)
+    #numero = 2
     for i in range(numero):
-        numero_aleatorio = random.randint(0,len(trago)-1)
         dt = datetime.now()
         time_p = datetime.timestamp(dt)
         data={
             'name': name,
             'timestamp': time_p,
             'user_id': fake.random_int(min=20000, max=100000),
-            'drink_name': trago[numero_aleatorio]
+            'drink_name': trago[i]
         }
         m=json.dumps(data)
         p.poll(1)
@@ -67,7 +67,7 @@ def main():
     
     threads = list()
     
-    number_of_producers = 10
+    number_of_producers = 1
     
     for index in range(number_of_producers):
         x = threading.Thread(target=producer, args=(index,))

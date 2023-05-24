@@ -1,60 +1,364 @@
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684550940.743759, "user_id": 83700, "drink_name": "Gin Toddy\n"}
+2023-05-23 19:28:49 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884526.140417, "user_id": 25062, "drink_name": "Mojito\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 7, "timestamp": 1684550940.748313, "user_id": 65402, "drink_name": "Queen Elizabeth\n"}
+2023-05-23 19:28:53 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884532.177435, "user_id": 98214, "drink_name": "Old Fashioned\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 5, "timestamp": 1684550940.747313, "user_id": 28243, "drink_name": "Boomerang\n"}
+2023-05-23 19:28:57 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884536.19618, "user_id": 33484, "drink_name": "Long Island Tea\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 6, "timestamp": 1684550940.748313, "user_id": 57694, "drink_name": "After Supper Cocktail\n"}
+2023-05-23 19:29:01 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884540.215014, "user_id": 73407, "drink_name": "Negroni\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 2, "timestamp": 1684550940.745304, "user_id": 88155, "drink_name": "Black Russian\n"}
+2023-05-23 19:29:05 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884544.230843, "user_id": 52038, "drink_name": "Whiskey Sour\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 1, "timestamp": 1684550940.745304, "user_id": 71495, "drink_name": "Lady Love Fizz\n"}
+2023-05-23 19:29:09 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884548.259039, "user_id": 79900, "drink_name": "Dry Martini\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 9, "timestamp": 1684550940.750319, "user_id": 82469, "drink_name": "Tequila Fizz\n"}
+2023-05-23 19:29:13 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884552.330908, "user_id": 37031, "drink_name": "Daiquiri\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 4, "timestamp": 1684550940.746327, "user_id": 27742, "drink_name": "White Russian\n"}
+2023-05-23 19:29:17 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884556.356173, "user_id": 46617, "drink_name": "Margarita\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 3, "timestamp": 1684550940.746327, "user_id": 34777, "drink_name": "Alfie Cocktail\n"}
+2023-05-23 19:29:21 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884560.378626, "user_id": 41016, "drink_name": "Manhattan\n"}
 
-2023-05-19 22:49:02 Produced message on topic Tragos with value of {"name": 8, "timestamp": 1684550940.749166, "user_id": 36193, "drink_name": "Godfather\n"}
+2023-05-23 19:29:25 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884564.405774, "user_id": 68043, "drink_name": "Moscow Mule\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 3, "timestamp": 1684550945.765281, "user_id": 34760, "drink_name": "Sherry Flip\n"}
+2023-05-23 19:29:29 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884568.420875, "user_id": 97830, "drink_name": "After Dinner Cocktail\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 5, "timestamp": 1684550945.780461, "user_id": 74543, "drink_name": "Dry Rob Roy\n"}
+2023-05-23 19:29:33 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884572.447314, "user_id": 82807, "drink_name": "After Supper Cocktail\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 9, "timestamp": 1684550945.780668, "user_id": 95249, "drink_name": "Black Russian\n"}
+2023-05-23 19:29:37 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884576.476935, "user_id": 30870, "drink_name": "Alabama Slammer\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 4, "timestamp": 1684550945.780668, "user_id": 22027, "drink_name": "Banana Daiquiri\n"}
+2023-05-23 19:29:41 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884580.497174, "user_id": 87847, "drink_name": "Alaska Cocktail\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 2, "timestamp": 1684550945.78118, "user_id": 59278, "drink_name": "Champagne Cocktail\n"}
+2023-05-23 19:29:45 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884584.520117, "user_id": 74844, "drink_name": "Alexander\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 1, "timestamp": 1684550945.780668, "user_id": 83964, "drink_name": "Blackthorn\n"}
+2023-05-23 19:29:49 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884588.54399, "user_id": 21036, "drink_name": "Brandy Alexander\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 8, "timestamp": 1684550945.780668, "user_id": 91831, "drink_name": "Port Wine Cocktail\n"}
+2023-05-23 19:29:53 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884592.570186, "user_id": 31596, "drink_name": "Alfie Cocktail\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684550945.780668, "user_id": 97203, "drink_name": "Gin Cooler\n"}
+2023-05-23 19:29:57 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884596.598156, "user_id": 86288, "drink_name": "Algonquin\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 6, "timestamp": 1684550945.780668, "user_id": 87916, "drink_name": "Tom Collins\n"}
+2023-05-23 19:30:01 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884600.611803, "user_id": 70567, "drink_name": "Allegheny\n"}
 
-2023-05-19 22:49:06 Produced message on topic Tragos with value of {"name": 7, "timestamp": 1684550945.780668, "user_id": 33989, "drink_name": "Gin Daisy\n"}
+2023-05-23 19:30:05 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884604.631516, "user_id": 84640, "drink_name": "Allies Cocktail\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684550949.828157, "user_id": 71918, "drink_name": "Whisky Mac\n"}
+2023-05-23 19:30:09 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884608.658002, "user_id": 39867, "drink_name": "Almeria\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 7, "timestamp": 1684550949.828157, "user_id": 23554, "drink_name": "Gin Sling\n"}
+2023-05-23 19:30:13 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884612.684032, "user_id": 63489, "drink_name": "Almond Joy\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 2, "timestamp": 1684550949.828157, "user_id": 61522, "drink_name": "Gin Swizzle\n"}
+2023-05-23 19:30:17 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884616.705972, "user_id": 48901, "drink_name": "Amaretto And Cream\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 6, "timestamp": 1684550949.828157, "user_id": 23087, "drink_name": "City Slicker\n"}
+2023-05-23 19:30:21 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884620.720122, "user_id": 54112, "drink_name": "Amaretto Mist\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 1, "timestamp": 1684550949.828157, "user_id": 88476, "drink_name": "Alaska Cocktail\n"}
+2023-05-23 19:30:25 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884624.742896, "user_id": 96589, "drink_name": "Amaretto Rose\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 8, "timestamp": 1684550949.828157, "user_id": 36509, "drink_name": "Sloe Gin Cocktail\n"}
+2023-05-23 19:30:29 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884628.761957, "user_id": 69921, "drink_name": "Amaretto Stinger\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 5, "timestamp": 1684550949.828157, "user_id": 75815, "drink_name": "Bourbon Sour\n"}
+2023-05-23 19:30:33 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884632.784915, "user_id": 58073, "drink_name": "Amaretto Tea\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 3, "timestamp": 1684550949.828157, "user_id": 30989, "drink_name": "Brandy Cobbler\n"}
+2023-05-23 19:30:37 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884636.800876, "user_id": 48159, "drink_name": "Angel Face\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 4, "timestamp": 1684550949.828157, "user_id": 39185, "drink_name": "Frozen Mint Daiquiri\n"}
+2023-05-23 19:30:41 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884640.825898, "user_id": 21205, "drink_name": "Applecar\n"}
 
-2023-05-19 22:49:10 Produced message on topic Tragos with value of {"name": 9, "timestamp": 1684550949.84385, "user_id": 78054, "drink_name": "Bermuda Highball\n"}
+2023-05-23 19:30:45 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884644.851778, "user_id": 68780, "drink_name": "Apricot Lady\n"}
+
+2023-05-23 19:30:49 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884648.881794, "user_id": 20004, "drink_name": "Archbishop\n"}
+
+2023-05-23 19:30:53 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884652.898312, "user_id": 77885, "drink_name": "Arise My Love\n"}
+
+2023-05-23 19:30:57 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884656.912784, "user_id": 62334, "drink_name": "Arthur Tompkins\n"}
+
+2023-05-23 19:31:01 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884660.937594, "user_id": 44110, "drink_name": "Artillery\n"}
+
+2023-05-23 19:31:05 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884664.963827, "user_id": 88543, "drink_name": "Balmoral\n"}
+
+2023-05-23 19:31:09 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884668.990419, "user_id": 35216, "drink_name": "Banana Daiquiri\n"}
+
+2023-05-23 19:31:14 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884673.001546, "user_id": 97682, "drink_name": "Bermuda Highball\n"}
+
+2023-05-23 19:31:18 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884677.032074, "user_id": 45199, "drink_name": "Black Russian\n"}
+
+2023-05-23 19:31:22 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884681.058892, "user_id": 53703, "drink_name": "Blackthorn\n"}
+
+2023-05-23 19:31:26 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884685.084168, "user_id": 57942, "drink_name": "Bloody Maria\n"}
+
+2023-05-23 19:31:30 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884689.10018, "user_id": 27214, "drink_name": "Bloody Mary\n"}
+
+2023-05-23 19:31:34 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884693.121798, "user_id": 50131, "drink_name": "Blue Lagoon\n"}
+
+2023-05-23 19:31:38 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884697.152467, "user_id": 88345, "drink_name": "Blue Margarita\n"}
+
+2023-05-23 19:31:42 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884701.16506, "user_id": 74370, "drink_name": "Blue Mountain\n"}
+
+2023-05-23 19:31:46 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884705.18809, "user_id": 80506, "drink_name": "Bluebird\n"}
+
+2023-05-23 19:31:50 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884709.198945, "user_id": 36898, "drink_name": "Bobby Burns Cocktail\n"}
+
+2023-05-23 19:31:54 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884713.210835, "user_id": 88656, "drink_name": "Boomerang\n"}
+
+2023-05-23 19:31:58 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884717.275694, "user_id": 98875, "drink_name": "Boston Sidecar\n"}
+
+2023-05-23 19:32:02 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884721.299486, "user_id": 33746, "drink_name": "Boston Sour\n"}
+
+2023-05-23 19:32:06 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884725.321863, "user_id": 33959, "drink_name": "Classic Old-Fashioned\n"}
+
+2023-05-23 19:32:10 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884729.334434, "user_id": 77064, "drink_name": "Bourbon Sling\n"}
+
+2023-05-23 19:32:14 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884733.354776, "user_id": 77491, "drink_name": "Bourbon Sour\n"}
+
+2023-05-23 19:32:18 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884737.385996, "user_id": 55604, "drink_name": "Boxcar\n"}
+
+2023-05-23 19:32:22 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884741.410687, "user_id": 89624, "drink_name": "Brandy Cobbler\n"}
+
+2023-05-23 19:32:26 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884745.432898, "user_id": 47989, "drink_name": "Brandy Flip\n"}
+
+2023-05-23 19:32:30 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884749.453708, "user_id": 67762, "drink_name": "Brandy Sour\n"}
+
+2023-05-23 19:32:34 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884753.472159, "user_id": 37185, "drink_name": "Caipirinha\n"}
+
+2023-05-23 19:32:38 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884757.48712, "user_id": 96225, "drink_name": "California Lemonade\n"}
+
+2023-05-23 19:32:42 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884761.51071, "user_id": 51878, "drink_name": "Casa Blanca\n"}
+
+2023-05-23 19:32:46 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884765.519376, "user_id": 54487, "drink_name": "Casino Royale\n"}
+
+2023-05-23 19:32:50 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884769.54123, "user_id": 62038, "drink_name": "Champagne Cocktail\n"}
+
+2023-05-23 19:32:54 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884773.552532, "user_id": 24559, "drink_name": "Cherry Rum\n"}
+
+2023-05-23 19:32:58 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884777.57189, "user_id": 50833, "drink_name": "Chicago Fizz\n"}
+
+2023-05-23 19:33:02 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884781.59203, "user_id": 37607, "drink_name": "Chocolate Black Russian\n"}
+
+2023-05-23 19:33:06 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884785.686827, "user_id": 99403, "drink_name": "City Slicker\n"}
+
+2023-05-23 19:33:10 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884789.70013, "user_id": 94839, "drink_name": "Clove Cocktail\n"}
+
+2023-05-23 19:33:14 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884793.720238, "user_id": 41314, "drink_name": "Cuba Libre\n"}
+
+2023-05-23 19:33:18 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884797.745112, "user_id": 42422, "drink_name": "Dragonfly\n"}
+
+2023-05-23 19:33:22 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884801.75537, "user_id": 33446, "drink_name": "Dry Rob Roy\n"}
+
+2023-05-23 19:33:26 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884805.76894, "user_id": 79097, "drink_name": "Dubonnet Cocktail\n"}
+
+2023-05-23 19:33:30 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884809.802752, "user_id": 29346, "drink_name": "English Highball\n"}
+
+2023-05-23 19:33:34 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884813.821546, "user_id": 92525, "drink_name": "English Rose Cocktail\n"}
+
+2023-05-23 19:33:38 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884817.837287, "user_id": 31421, "drink_name": "Flying Dutchman\n"}
+
+2023-05-23 19:33:42 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884821.871823, "user_id": 58849, "drink_name": "Flying Scotchman\n"}
+
+2023-05-23 19:33:46 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884825.892963, "user_id": 80187, "drink_name": "Foxy Lady\n"}
+
+2023-05-23 19:33:50 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884829.903957, "user_id": 76850, "drink_name": "Frisco Sour\n"}
+
+2023-05-23 19:33:54 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884833.919745, "user_id": 64290, "drink_name": "Frozen Daiquiri\n"}
+
+2023-05-23 19:33:58 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884837.936833, "user_id": 73228, "drink_name": "Frozen Mint Daiquiri\n"}
+
+2023-05-23 19:34:02 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884841.946209, "user_id": 51128, "drink_name": "Frozen Pineapple Daiquiri\n"}
+
+2023-05-23 19:34:06 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884845.962902, "user_id": 75936, "drink_name": "Gentleman's Club\n"}
+
+2023-05-23 19:34:10 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884849.985919, "user_id": 91176, "drink_name": "Gin And Tonic\n"}
+
+2023-05-23 19:34:15 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884854.003951, "user_id": 63209, "drink_name": "Gin Cooler\n"}
+
+2023-05-23 19:34:19 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884858.026946, "user_id": 96400, "drink_name": "Gin Daisy\n"}
+
+2023-05-23 19:34:23 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884862.049401, "user_id": 32946, "drink_name": "Gin Fizz\n"}
+
+2023-05-23 19:34:27 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884866.06985, "user_id": 39873, "drink_name": "Gin Sling\n"}
+
+2023-05-23 19:34:31 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884870.079257, "user_id": 92547, "drink_name": "Gin Smash\n"}
+
+2023-05-23 19:34:35 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884874.098919, "user_id": 39982, "drink_name": "Gin Sour\n"}
+
+2023-05-23 19:34:39 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884878.128314, "user_id": 55595, "drink_name": "Gin Squirt\n"}
+
+2023-05-23 19:34:43 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884882.144808, "user_id": 58647, "drink_name": "Gin Swizzle\n"}
+
+2023-05-23 19:34:47 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884886.162529, "user_id": 99481, "drink_name": "Gin Toddy\n"}
+
+2023-05-23 19:34:51 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884890.189471, "user_id": 32884, "drink_name": "Godchild\n"}
+
+2023-05-23 19:34:55 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884894.213815, "user_id": 31796, "drink_name": "Godfather\n"}
+
+2023-05-23 19:34:59 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884898.238089, "user_id": 64675, "drink_name": "Godmother\n"}
+
+2023-05-23 19:35:03 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884902.257255, "user_id": 38393, "drink_name": "Grass Skirt\n"}
+
+2023-05-23 19:35:07 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884906.264831, "user_id": 39607, "drink_name": "Harvey Wallbanger\n"}
+
+2023-05-23 19:35:11 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884910.279217, "user_id": 59184, "drink_name": "Havana Cocktail\n"}
+
+2023-05-23 19:35:15 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884914.30398, "user_id": 89002, "drink_name": "Hawaiian Cocktail\n"}
+
+2023-05-23 19:35:19 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884918.324288, "user_id": 73060, "drink_name": "Highland Fling Cocktail\n"}
+
+2023-05-23 19:35:23 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884922.345705, "user_id": 67025, "drink_name": "Imperial Fizz\n"}
+
+2023-05-23 19:35:27 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884926.375439, "user_id": 56107, "drink_name": "Irish Spring\n"}
+
+2023-05-23 19:35:31 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884930.402195, "user_id": 87645, "drink_name": "Jack Rose Cocktail\n"}
+
+2023-05-23 19:35:35 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884934.413161, "user_id": 49021, "drink_name": "Japanese Fizz\n"}
+
+2023-05-23 19:35:39 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884938.440945, "user_id": 77167, "drink_name": "Jewel Of The Nile\n"}
+
+2023-05-23 19:35:43 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884942.452931, "user_id": 53541, "drink_name": "John Collins\n"}
+
+2023-05-23 19:35:47 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884946.477223, "user_id": 35819, "drink_name": "Kamikaze\n"}
+
+2023-05-23 19:35:51 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884950.487734, "user_id": 31449, "drink_name": "Kentucky B And B\n"}
+
+2023-05-23 19:35:55 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884954.505081, "user_id": 83586, "drink_name": "Kentucky Colonel\n"}
+
+2023-05-23 19:35:59 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884958.534098, "user_id": 34638, "drink_name": "Lady Love Fizz\n"}
+
+2023-05-23 19:36:03 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884962.551926, "user_id": 65760, "drink_name": "Loch Lomond\n"}
+
+2023-05-23 19:36:07 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884966.575149, "user_id": 51903, "drink_name": "London Town\n"}
+
+2023-05-23 19:36:11 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884970.587024, "user_id": 59287, "drink_name": "Lone Tree Cocktail\n"}
+
+2023-05-23 19:36:15 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884974.604102, "user_id": 81713, "drink_name": "Lone Tree Cooler\n"}
+
+2023-05-23 19:36:19 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884978.6303, "user_id": 89738, "drink_name": "Lord And Lady\n"}
+
+2023-05-23 19:36:23 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884982.638918, "user_id": 99369, "drink_name": "Mai Tai\n"}
+
+2023-05-23 19:36:27 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884986.655067, "user_id": 88073, "drink_name": "Martinez Cocktail\n"}
+
+2023-05-23 19:36:31 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884990.683925, "user_id": 48563, "drink_name": "Martini\n"}
+
+2023-05-23 19:36:35 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884994.689001, "user_id": 88763, "drink_name": "Midnight Cowboy\n"}
+
+2023-05-23 19:36:39 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684884998.718655, "user_id": 66051, "drink_name": "Mississippi Planters Punch\n"}
+
+2023-05-23 19:36:43 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885002.739655, "user_id": 53884, "drink_name": "Monkey Wrench\n"}
+
+2023-05-23 19:36:47 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885006.753641, "user_id": 23265, "drink_name": "New York Sour\n"}
+
+2023-05-23 19:36:51 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885010.782921, "user_id": 58474, "drink_name": "Orange Oasis\n"}
+
+2023-05-23 19:36:55 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885014.799809, "user_id": 86375, "drink_name": "Orgasm\n"}
+
+2023-05-23 19:36:59 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885018.820781, "user_id": 75853, "drink_name": "Pink Gin\n"}
+
+2023-05-23 19:37:03 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885022.828375, "user_id": 81454, "drink_name": "Pink Lady\n"}
+
+2023-05-23 19:37:07 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885026.849303, "user_id": 90422, "drink_name": "Poppy Cocktail\n"}
+
+2023-05-23 19:37:11 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885030.870154, "user_id": 56184, "drink_name": "Port And Starboard\n"}
+
+2023-05-23 19:37:15 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885034.876301, "user_id": 94954, "drink_name": "Port Wine Cocktail\n"}
+
+2023-05-23 19:37:19 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885038.901753, "user_id": 23222, "drink_name": "Port Wine Flip\n"}
+
+2023-05-23 19:37:23 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885042.912959, "user_id": 93825, "drink_name": "Quaker's Cocktail\n"}
+
+2023-05-23 19:37:27 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885046.931342, "user_id": 97505, "drink_name": "Quarter Deck Cocktail\n"}
+
+2023-05-23 19:37:31 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885050.954755, "user_id": 32241, "drink_name": "Queen Bee\n"}
+
+2023-05-23 19:37:35 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885054.98219, "user_id": 89267, "drink_name": "Queen Charlotte\n"}
+
+2023-05-23 19:37:40 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885059.007172, "user_id": 97253, "drink_name": "Queen Elizabeth\n"}
+
+2023-05-23 19:37:44 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885063.024919, "user_id": 64603, "drink_name": "Quentin\n"}
+
+2023-05-23 19:37:48 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885067.048068, "user_id": 50956, "drink_name": "Royal Fizz\n"}
+
+2023-05-23 19:37:52 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885071.077868, "user_id": 47785, "drink_name": "Royal Gin Fizz\n"}
+
+2023-05-23 19:37:56 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885075.105692, "user_id": 85452, "drink_name": "Rum Cobbler\n"}
+
+2023-05-23 19:38:00 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885079.128877, "user_id": 42173, "drink_name": "Rum Cooler\n"}
+
+2023-05-23 19:38:04 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885083.14393, "user_id": 94908, "drink_name": "Rum Milk Punch\n"}
+
+2023-05-23 19:38:08 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885087.165873, "user_id": 23816, "drink_name": "Rum Old-fashioned\n"}
+
+2023-05-23 19:38:12 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885091.194948, "user_id": 72468, "drink_name": "Rum Screwdriver\n"}
+
+2023-05-23 19:38:16 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885095.211241, "user_id": 78398, "drink_name": "Rum Sour\n"}
+
+2023-05-23 19:38:20 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885099.236678, "user_id": 61544, "drink_name": "Rum Toddy\n"}
+
+2023-05-23 19:38:24 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885103.304984, "user_id": 31929, "drink_name": "Rusty Nail\n"}
+
+2023-05-23 19:38:28 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885107.323777, "user_id": 43931, "drink_name": "Salty Dog\n"}
+
+2023-05-23 19:38:32 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885111.343964, "user_id": 54538, "drink_name": "Sazerac\n"}
+
+2023-05-23 19:38:36 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885115.376908, "user_id": 43764, "drink_name": "Scooter\n"}
+
+2023-05-23 19:38:40 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885119.388943, "user_id": 76244, "drink_name": "Scotch Cobbler\n"}
+
+2023-05-23 19:38:44 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885123.413976, "user_id": 50434, "drink_name": "Scotch Sour\n"}
+
+2023-05-23 19:38:48 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885127.427195, "user_id": 91228, "drink_name": "Screwdriver\n"}
+
+2023-05-23 19:38:52 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885131.437731, "user_id": 81227, "drink_name": "Shanghai Cocktail\n"}
+
+2023-05-23 19:38:56 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885135.450035, "user_id": 78213, "drink_name": "Sherry Eggnog\n"}
+
+2023-05-23 19:39:00 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885139.47176, "user_id": 34115, "drink_name": "Sherry Flip\n"}
+
+2023-05-23 19:39:04 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885143.480997, "user_id": 78435, "drink_name": "Sidecar\n"}
+
+2023-05-23 19:39:08 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885147.505056, "user_id": 68543, "drink_name": "Sidecar Cocktail\n"}
+
+2023-05-23 19:39:12 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885151.532867, "user_id": 21709, "drink_name": "Singapore Sling\n"}
+
+2023-05-23 19:39:16 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885155.542779, "user_id": 24352, "drink_name": "Sloe Gin Cocktail\n"}
+
+2023-05-23 19:39:20 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885159.562828, "user_id": 40037, "drink_name": "Sol Y Sombra\n"}
+
+2023-05-23 19:39:24 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885163.582854, "user_id": 85300, "drink_name": "Stone Sour\n"}
+
+2023-05-23 19:39:28 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885167.595136, "user_id": 99499, "drink_name": "Strawberry Daiquiri\n"}
+
+2023-05-23 19:39:32 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885171.60588, "user_id": 51601, "drink_name": "Strawberry Margarita\n"}
+
+2023-05-23 19:39:36 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885175.628079, "user_id": 42509, "drink_name": "Tequila Fizz\n"}
+
+2023-05-23 19:39:40 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885179.649885, "user_id": 36361, "drink_name": "Tequila Sour\n"}
+
+2023-05-23 19:39:44 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885183.671253, "user_id": 90270, "drink_name": "Thriller\n"}
+
+2023-05-23 19:39:48 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885187.686127, "user_id": 85419, "drink_name": "Tom Collins\n"}
+
+2023-05-23 19:39:52 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885191.706917, "user_id": 57751, "drink_name": "Turf Cocktail\n"}
+
+2023-05-23 19:39:56 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885195.716925, "user_id": 52516, "drink_name": "Tuxedo Cocktail\n"}
+
+2023-05-23 19:40:00 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885199.743066, "user_id": 68244, "drink_name": "Valencia Cocktail\n"}
+
+2023-05-23 19:40:04 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885203.758845, "user_id": 55320, "drink_name": "Van Vleet\n"}
+
+2023-05-23 19:40:08 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885207.772175, "user_id": 34979, "drink_name": "Vermouth Cassis\n"}
+
+2023-05-23 19:40:12 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885211.78906, "user_id": 86294, "drink_name": "Vesuvio\n"}
+
+2023-05-23 19:40:16 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885215.816718, "user_id": 95785, "drink_name": "Veteran\n"}
+
+2023-05-23 19:40:20 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885219.83876, "user_id": 71017, "drink_name": "Victor\n"}
+
+2023-05-23 19:40:24 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885223.851831, "user_id": 22710, "drink_name": "Victory Collins\n"}
+
+2023-05-23 19:40:28 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885227.876772, "user_id": 48314, "drink_name": "Vodka And Tonic\n"}
+
+2023-05-23 19:40:32 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885231.894024, "user_id": 49825, "drink_name": "Waikiki Beachcomber\n"}
+
+2023-05-23 19:40:36 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885235.905871, "user_id": 63231, "drink_name": "Whisky Mac\n"}
+
+2023-05-23 19:40:40 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885239.921066, "user_id": 34173, "drink_name": "White Russian\n"}
+
+2023-05-23 19:40:44 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885243.941862, "user_id": 47053, "drink_name": "Afterglow\n"}
+
+2023-05-23 19:40:48 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885247.954826, "user_id": 98798, "drink_name": "Alice Cocktail\n"}
+
+2023-05-23 19:40:52 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885251.968019, "user_id": 60186, "drink_name": "Apple Karate\n"}
+
+2023-05-23 19:40:57 Produced message on topic Tragos with value of {"name": 0, "timestamp": 1684885255.997219, "user_id": 65814, "drink_name": "Bora Bora"}
 

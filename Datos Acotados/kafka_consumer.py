@@ -14,23 +14,26 @@ c.subscribe(['Tragos'])
 ################
 
 def main():
-    i = 0
-    
+    f = open("tiempos_kafka.txt","w+")
     while True:
         msg=c.poll(1.0) #timeout
         dt = datetime.now()
-        time_p = datetime.timestamp(dt)
         if msg is None:
             continue
         if msg.error():
             print('Error: {}'.format(msg.error()))
             continue
+        time_p = datetime.timestamp(dt)
         data=msg.value().decode('utf-8')
         print(data)
-        r.set(i,data)
-        i+=1
-        print("tiempo mensaje: ",time_p);
+        tiempo_final = datetime.fromtimestamp(time_p)
+        tiempo_principio = datetime.fromtimestamp(eval(data)['timestamp'])
+        tiempo_demora = tiempo_final-tiempo_principio
+        print(tiempo_demora)
+        r.set(data,tiempo_demora.total_seconds())
+        f.write(str(tiempo_demora.total_seconds()) + '\n')
     c.close()
+    f.close()
         
 if __name__ == '__main__':
     main()
