@@ -4,7 +4,7 @@ import numpy as np
 
 # Ruta de los archivos de texto
 archivo1 = 'tiempos_kafka-latencia-50.txt' #kafka
-archivo2 = 'tiempos_rabbitmq_improved.txt' #rabbitmq
+archivo2 = 'tiempos_rabbitmq_five_categories.txt' #rabbitmq
 
 # Leer los datos del archivo 1
 y1 = []
