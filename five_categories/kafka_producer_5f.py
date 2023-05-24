@@ -38,7 +38,7 @@ print('Kafka Producer has been initiated...')
 
 def producer(name):
     trago = []
-    with open('data.txt','r') as data:
+    with open('../data.txt','r') as data:
         for linea in data:
             trago.append(linea)
     
