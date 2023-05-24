@@ -43,7 +43,7 @@ def producer(name):
             trago.append(linea)
     
     #182
-    numero = len(trago)
+    numero = len(trago)-157
     #numero = 2
     for i in range(numero):
         dt = datetime.now()

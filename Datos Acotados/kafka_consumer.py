@@ -30,7 +30,11 @@ def main():
         tiempo_principio = datetime.fromtimestamp(eval(data)['timestamp'])
         tiempo_demora = tiempo_final-tiempo_principio
         print(tiempo_demora)
-        r.set(data,tiempo_demora.total_seconds())
+        real_data = {
+            'name': eval(data)['name'],
+            'drink_name': eval(data)['drink_name']
+        }
+        r.set(str(real_data),tiempo_demora.total_seconds())
         f.write(str(tiempo_demora.total_seconds()) + '\n')
     c.close()
     f.close()

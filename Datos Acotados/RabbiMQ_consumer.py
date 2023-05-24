@@ -17,13 +17,19 @@ def main():
         time_p = datetime.timestamp(dt)
         
         print(" [x] Received %r" % body)
-        
         data=body.decode('utf-8')
+        real_data = {
+            'name': eval(data)['name'],
+            'drink_name': eval(data)['drink_name']
+        }
+        print("Tiempo Kafka: " + str(r.get(str(real_data))))
         tiempo_final = datetime.fromtimestamp(time_p)
         tiempo_principio = datetime.fromtimestamp(eval(data)['timestamp'])
         tiempo_demora = tiempo_final-tiempo_principio
-        
+        print("Tiempo Rabbit: " + str(tiempo_demora.total_seconds()))
         f.write(str(tiempo_demora.total_seconds()) + '\n')
+        
+        
 
         
 
