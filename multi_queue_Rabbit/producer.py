@@ -34,7 +34,7 @@ def producer(name):
 
     for i in range(numero):
         queue_number = random.randint(0,2)
-        queue_random = f"queue{queue_number}"
+        queue_random = f"queue{queue_number+1}"
         dt = datetime.now()
         time_p = datetime.timestamp(dt)
         data = {
@@ -47,7 +47,7 @@ def producer(name):
         message = json.dumps(data)
         publish_message(channel, message, queue_random)
         print(message)
-        print(f"Enviado en la cola {queue_number}")
+        print(f"Enviado en la cola {queue_number+1}")
         time.sleep(3)
 
     connection.close()
