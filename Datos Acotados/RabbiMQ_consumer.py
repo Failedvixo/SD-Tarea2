@@ -2,7 +2,7 @@ import pika, sys, os, redis, time
 from datetime import datetime
 
 r = redis.Redis(host='localhost', port=6379)
-f = open("tiempos_rabbitmq.txt","w+")
+f = open("tiempos_rabbitmq_multi_producer.txt","w+")
 def main():
     #Coneccion al sv
     connection = pika.BlockingConnection(pika.ConnectionParameters('127.0.0.1'))

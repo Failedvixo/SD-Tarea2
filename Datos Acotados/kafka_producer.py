@@ -67,7 +67,7 @@ def main():
     
     threads = list()
     
-    number_of_producers = 1
+    number_of_producers = 1000
     
     for index in range(number_of_producers):
         x = threading.Thread(target=producer, args=(index,))

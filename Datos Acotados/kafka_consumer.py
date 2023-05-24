@@ -14,7 +14,7 @@ c.subscribe(['Tragos'])
 ################
 
 def main():
-    f = open("tiempos_kafka.txt","w+")
+    f = open("tiempos_kafka_multi_producer.txt","w+")
     while True:
         msg=c.poll(1.0) #timeout
         dt = datetime.now()
